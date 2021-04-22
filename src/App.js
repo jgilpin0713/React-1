@@ -1,4 +1,4 @@
-import WordsForm from "./WordsForm"
+import MadLibs from "./MadLibs"
 
 
 import './App.css';
@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <WordsForm />
+      <MadLibs />
       
     </div>
   );
